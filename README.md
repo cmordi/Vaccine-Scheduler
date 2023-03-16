@@ -2,7 +2,7 @@
 
 ### What does this program do ? 
 
-#### * It is an appointment scheduler for vaccinations, where the users are patients and caregivers keeping track of vaccine stock and appointments. 
+#### * It is an medical appointment scheduler for vaccinations, where the users are patients who can use the program to keep track of their medical information, doctors' schedule and availability of medical supplied.
 
 ### What is needed to run this program?
 
